@@ -1,6 +1,6 @@
 {
   "name": "ng-dynamic",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "dynamic contents projection in Angular",
   "main": "index.js",
   "scripts": {
@@ -19,11 +19,6 @@
   },
   "author": "laco <laco0416+github@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "@angular/core": ">=4.0.0",
-    "@angular/platform-browser": ">=4.0.0",
-    "@angular/compiler": ">=4.0.0"
-  },
   "devDependencies": {
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
